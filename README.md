@@ -1,1 +1,2 @@
 # Finance-Store-Sales-Analysis-Tableau
+This project is focused on analyzing finance and store sales data using Tableau. The objective is to gain insights into financial performance, sales trends, and store operations through interactive visualizations and dashboards. Tableau is utilized to create dynamic and informative visual representations of the data, enabling stakeholders to explore and understand key metrics and trends effectively.
